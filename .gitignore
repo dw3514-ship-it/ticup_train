@@ -1,0 +1,8 @@
+Debug/
+.clangd/.cache/
+*.o
+*.d
+*.out
+*.map
+*_linkInfo.xml
+*.log
